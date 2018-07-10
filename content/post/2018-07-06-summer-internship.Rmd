@@ -1,8 +1,9 @@
 ---
 title: Summer Internship
-author: ~
+author: Katie Socolow
 date: '2018-07-06'
 slug: summer-internship
 categories: []
 tags: []
 ---
+
